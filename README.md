@@ -14,8 +14,11 @@ What are we trying to do?
 How?
 
 > Using NLP &, time permitting, other factors (reference 14.3.2 Austin Coffee Shop for the easiest initial NLP method & 12.2.6 for vader sentiment)
+
 > We will identify 10 companies that have gone bankrupt (different industries) & add them to our data frame
+
 > We will identify 10 companies (corresponding by industry to above companies) that are in good health & then add them to our data frame
+
 > We will use the above data set to train our model
  
  
