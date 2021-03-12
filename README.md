@@ -47,6 +47,7 @@ Testing our model:
 Stretch:
 
 > We will include more companies in our dataset
+
 > We will include more columns for data and on which to train our model 
 
 
@@ -64,5 +65,7 @@ tensorflow
 
 nltk.sentiment.vader
 
+
+Tasks:
 
 **END INITIAL OUTLINE**
