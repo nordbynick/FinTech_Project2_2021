@@ -1,5 +1,6 @@
 # FinTech_Project2_2021
 Kedar, Alex, Nick
+
 Project Name: Boom or Bust
 
 **START INITIAL OUTLINE**
