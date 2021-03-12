@@ -20,10 +20,10 @@ Data
 
 To start: 3 columns
 
-Company name
+1) Company name
 
-Column containing either article or words (we can manually copy/paste information into a data frame, or we can pull recent articles from a source like Reuters)(we want to focus the articles or text on a time period that is at least within 1 year of the bankruptcy)
-Column with binary classification "1" for Not Bankrupt, and "0" for Bankrupt
+2) Column containing either article or words (we can manually copy/paste information into a data frame, or we can pull recent articles from a source like Reuters)(we want to  focus the articles or text on a time period that is at least within 1 year of the bankruptcy)
+3) Column with binary classification "1" for Not Bankrupt, and "0" for Bankrupt
 Easiest way to pull initial data is to either build the data frame manually and use relevant articles & copy/paste… or more dynamically, we can use the Reuters library to pull in info from a specific timeframe… or we can look into a new news source that may suite us well
 Stretch: We add more columns with different data to include in training our model (such as assets, liabilities, etc.)
  
