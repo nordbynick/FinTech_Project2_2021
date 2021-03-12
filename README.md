@@ -50,4 +50,12 @@ We will include more columns for data and on which to train our model
 Resoureces:
 https://fortune.com/2020/06/29/companies-filing-bankruptcy-2020-during-coronavirus-pandemic-covid-19-economy-industries/
 
+
+Likely Libraries & APIs:
+newsapi
+sklearn
+tensorflow
+nltk.sentiment.vader
+
+
 **END INITIAL OUTLINE**
