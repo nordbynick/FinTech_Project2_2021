@@ -67,4 +67,10 @@ Likely Libraries & APIs:
 
 Tasks:
 
+> Begin building out the Data Set (Kedar has started)
+
+> Begin building python file
+
+> TBD
+
 **END INITIAL OUTLINE**
