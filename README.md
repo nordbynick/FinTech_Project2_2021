@@ -57,13 +57,13 @@ https://fortune.com/2020/06/29/companies-filing-bankruptcy-2020-during-coronavir
 
 Likely Libraries & APIs:
 
-newsapi
+> newsapi
 
-sklearn
+> sklearn
 
-tensorflow
+> tensorflow
 
-nltk.sentiment.vader
+> nltk.sentiment.vader
 
 
 Tasks:
