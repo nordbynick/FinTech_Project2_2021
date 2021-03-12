@@ -22,9 +22,7 @@ How?
 > We will use the above data set to train our model
  
  
-Data
-
-To start: 3 columns
+Data: 3 Columns to Start
 
 > 1) Company name
 
