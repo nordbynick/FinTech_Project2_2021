@@ -13,7 +13,7 @@ What are we trying to do?
  
 How?
 
-> Using NLP &, time permitting, other factors (reference 14.3.2 Austin Coffee Shop for the easiest initial NLP method & 12.2.6 for vader sentiment)
+> Using NLP &, time permitting, other factors (reference 14.3.2 Austin Coffee Shop for preferred initial NLP method & 12.2.6 for vader sentiment)
 
 > We will identify 10 companies that have gone bankrupt (different industries) & add them to our data frame
 
@@ -66,5 +66,11 @@ Likely Libraries & APIs:
 
 
 Tasks:
+
+> Begin building out the Data Set (Kedar has started)
+
+> Begin building python file
+
+> TBD
 
 **END INITIAL OUTLINE**
