@@ -3,28 +3,23 @@ Kedar, Alex, Nick
 
 Project Name: Boom or Bust
 
-**START INITIAL OUTLINE**
+**NOTE TO PROJECT RESTRUCTURE**: When we initially set out to do our project, we wanted to use NLP data to predict bankruptcies. We used the first two classes devising our approach, models, outlines, etc; however, once we started writing the code we ran into several major issues. First, while resources like newsapi and aylien did offer powerful news api's, to have access to news lookbacks greater than several months cost large amounts of money or required corporate accounts (also expensive). Given we needed data going years back (we were looking at 2020 bankruptcies and needed 2019 NLP data), we were in a conundrum. As such, we needed to restructure our project to fit within the constraints of our tools. The major constraint was the 1-month news/information lookback for newsapi.org. With this constraint we decided to update our project to use 1-month NLP data to predict if a stock price would go up or down over the course of a month. We would then use the ML models learned in class to draw conclusions.
 
+What are we trying to do (update)?
 
-What are we trying to do?
-
-> Trying to predict bankruptcies
+> Use one month of NLP data & one month of stock price data, for a select group of companies, to train a model to predict stock prices
  
  
-How?
+How (update)?
 
-> Using NLP &, time permitting, other factors (reference 14.3.2 Austin Coffee Shop for preferred initial NLP method & 12.2.6 for vader sentiment)
-
-> We will identify 10 companies that have gone bankrupt (different industries) & add them to our data frame
-
-> We will identify 10 companies (corresponding by industry to above companies) that are in good health & then add them to our data frame
-
-> We will use the above data set to train our model
+> Using 1-month NLP data from newsapi.org & other relevent stock factors from our Fidelity.com screener/excel export
+> We will use the above data set to scale, train, and test a model
+> We will evaluate a number of different ML models to determine the best fit
  
  
-Data: 3 Columns to Start
+Data (update): 
 
-> 1) Company name
+> 1) Company name & ticker
 
 > 2) Column containing either article or words (we can manually copy/paste information into a data frame, or we can pull recent articles from a source like Reuters)(we want to  focus the articles or text on a time period that is at least within 1 year of the bankruptcy)
 
