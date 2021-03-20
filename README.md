@@ -27,7 +27,7 @@ Data (update):
 > 3) Column with binary classification "1" for stocks that went up, and "0" for stocks that went down
 
  
-Training & Testing Our Model:
+Training & Testing Our Model (update):
 
 > We will tryi a variety of ML models, focused around classifaction models & models that evaluate binary outcomes (did the stock go up or down, and how are these movements correlated to NLP data & sentiment)
  
