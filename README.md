@@ -62,3 +62,8 @@ Tasks:
 > Build NLP function (Nick)
 
 > Run models (Alex) 
+
+
+Findings:
+
+> Please reference out slide show pdf attached
