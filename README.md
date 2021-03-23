@@ -6,7 +6,7 @@ Project Name: Boom or Bust
 
 Attachments:
 
-> BOOMorBUST_1 = python file
+> BOOMorBUST = python file
  
 > monthly_modeling_df = our csv with final data used 
 
