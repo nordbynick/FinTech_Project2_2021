@@ -24,7 +24,9 @@ What are we trying to do (update)?
 How (update)?
 
 > Using 1-month NLP data from newsapi.org & other relevent stock factors from our Fidelity.com screener/excel export
+
 > We will use the above data set to scale, train, and test models (classification models)
+
 > We will evaluate a number of different ML models to determine the best fit
  
  
